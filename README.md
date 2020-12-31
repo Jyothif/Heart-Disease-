@@ -1,5 +1,5 @@
 # Heart_Disease:Project Overview
-This project refelct on heart disease comparing between men and women, who are suffering more heart attacks,considering the patients features.
+This project reflecct on heart disease comparing between men and women taking the patients features.
 
 # Data collection
 * The data is taken from kaggle competition
